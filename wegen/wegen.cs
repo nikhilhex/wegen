@@ -8,7 +8,7 @@ namespace wegen
 
 #pragma warning disable SYSLIB0014
 
-    static class WeGen
+   public  static class WeGen
     {
         public static int Number()
         {
@@ -85,7 +85,7 @@ namespace wegen
 
     }
 
-    static class WeLog
+    public static class WeLog
     {
         public static void Number()
         {
